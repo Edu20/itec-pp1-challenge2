@@ -1,0 +1,10 @@
+POST  http://localhost:3001/tareas
+Content-Type: application/json
+
+{
+        "titulo": "login",
+        "descripcion": "realizar el login",
+        "nombrePersonaAsignada": "Carlos",
+        "estadoTarea": "new"
+        
+}

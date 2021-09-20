@@ -1,0 +1,9 @@
+PATCH   http://localhost:3001/tareas/61488beca34b5595b487a321
+Content-Type: application/json
+
+{
+        "titulo": "footer",
+        "descripcion": "realizar el footer",
+        "nombrePersonaAsignada": "Ana",
+        "estadoTarea": "new"
+}
